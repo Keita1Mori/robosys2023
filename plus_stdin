@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Ryuichi Ueda
+# SPDX-License-Identifier: DSD-3-Clause
 import sys
 
 ans = 0
