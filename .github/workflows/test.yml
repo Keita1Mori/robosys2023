@@ -1,5 +1,6 @@
-# SPDX-FileCopyrightText: 2023 Ryuichi Ueda
-#SPDX-License-Identifier: BSD-3-Clause
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Ryuichi Ueda 　　　　　
+# SPDX-License-Identifier: BSD-3-Clause
 
 name: test
 on: push
